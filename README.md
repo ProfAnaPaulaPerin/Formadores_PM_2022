@@ -3,9 +3,9 @@
 
 Cursistas formadores Pensamento Computacional 2023.
 
-##Linguagem Utilizada:
+## Linguagem Utilizada:
 - html
 - css
 
-##Softwares:
+## Softwares:
 -Sublime, VS code, atom...
