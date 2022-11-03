@@ -1,0 +1,24 @@
+body {
+    color: rgb(18, 18, 170);
+    text-align: justify;
+    background-color: azure;
+    margin-left: 05%;
+    margin-right: 05%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+
+}
+
+h1 {
+
+    background-color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 50px;
+
+}
