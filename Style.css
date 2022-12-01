@@ -24,6 +24,13 @@ h1 {
 h2 { 
     background-color: yellow;
 text-align: center;
+margin: top 10%;
+margin-bottom: 5%;
+margin-left: 30%;
+padding-left: 10px;
+padding-right: 40px;
+margin-bottom: 20px;
+
 
 
 
@@ -59,4 +66,24 @@ h4 {
 
 
 
+}
+
+
+#paragrafo {
+color: red;
+
+
+}
+
+.imagem1: { 
+display: inline-block;
+height: 50%;
+width: 40%;
+text-align: center;
+margin-left: 00%;
+margin-right: 00%;
+
+
+
+    
 }
